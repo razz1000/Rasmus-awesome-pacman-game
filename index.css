@@ -2,6 +2,13 @@ html, body {
     margin: 10;
     padding: 10;
 }
+h1 {
+	color: #343d46; 
+	text-transform: uppercase;
+	border-bottom: black solid 2px;
+	font-weight: bold;
+	font-size: 24px;
+	
 
 .grid {
     display: flex;
